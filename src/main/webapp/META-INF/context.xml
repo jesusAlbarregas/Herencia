@@ -2,13 +2,13 @@
 <Context path="/Herencia">
   <Resource 
       auth="Container" 
-      driverClassName="com.mysql.jdbc.Driver" 
+      driverClassName="com.mysql.cj.jdbc.Driver" 
       maxActive="100" 
       maxIdle="30" 
       maxWait="10000" 
       name="jdbc/Herencia" 
-      password="2019" 
+      password="Java*2025" 
       type="javax.sql.DataSource" 
-      url="jdbc:mysql://localhost:3306/cursoHibernate?autoReconnect=true" 
-      username="java2019"/>
+      url="jdbc:mysql://localhost:3306/hibernate?autoReconnect=true" 
+      username="java2025"/>
 </Context>
